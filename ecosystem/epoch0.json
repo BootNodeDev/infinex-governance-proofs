@@ -18,6 +18,12 @@
             "proof": [
                 "0xbfb702b9905d97e4acbc36d358c6515c1230dc967fbd1b730234ca205bbdddd4"
             ]
+        },
+        0xC132b931877Af2Eb687D150811aDAa3F0C421f3F": {
+            "balance": "2500000000000000000",
+            "proof": [
+                "0xbfb702b9905d97e4acbc36d358c6515c1230dc967fbd1b730234ca205bbdddd4"
+            ]
         }
     }
 }
