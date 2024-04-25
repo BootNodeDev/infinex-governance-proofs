@@ -1,28 +1,42 @@
 {
-    "root": "0xc69653201beb86eeba491890dd74f5b13ed3ae548764776e5ee580969966e27d",
+    "root": "0x8157618d12f747c72be44a0cccc2af2042e45c5a17c41d606127144387698fac",
     "proofs": {
         "0x9cf2288d8FA37051970AeBa88E8b4Fb5960c2385": {
             "balance": "5000000000000000000",
             "proof": [
-                "0x04942abdc5cf199cb982611d752f9154135720a99c9cad210bb6758335ab8fac"
+                "0x04942abdc5cf199cb982611d752f9154135720a99c9cad210bb6758335ab8fac",
+                "0x3bb90b364768888346041ec0e84b9ccea59a3b0d2990e4f82b78969e0af47e26",
+                "0x6887db2a300efa1b4d1cd65e2852e42cb662c5848cc5b3cf7140d2d29500327f"
             ]
         },
         "0xDe75665F3BE46D696e5579628fA17b662e6fC04e": {
             "balance": "2500000000000000000",
             "proof": [
-                "0xbfb702b9905d97e4acbc36d358c6515c1230dc967fbd1b730234ca205bbdddd4"
-            ]
-        },
-        "0xFF9DD5aeB81C96c1a240A7013e51ED30D4C6F49A": {
-            "balance": "2500000000000000000",
-            "proof": [
-                "0xbfb702b9905d97e4acbc36d358c6515c1230dc967fbd1b730234ca205bbdddd4"
+                "0xbfb702b9905d97e4acbc36d358c6515c1230dc967fbd1b730234ca205bbdddd4",
+                "0x3bb90b364768888346041ec0e84b9ccea59a3b0d2990e4f82b78969e0af47e26",
+                "0x6887db2a300efa1b4d1cd65e2852e42cb662c5848cc5b3cf7140d2d29500327f"
             ]
         },
         "0xC132b931877Af2Eb687D150811aDAa3F0C421f3F": {
-            "balance": "2500000000000000000",
+            "balance": "100000000000000000",
             "proof": [
-                "0xbfb702b9905d97e4acbc36d358c6515c1230dc967fbd1b730234ca205bbdddd4"
+                "0xd59338fa22d909c5f3307c493c36a9b7b5b82d5872ac01e50fc47b81015c40dd",
+                "0xc69653201beb86eeba491890dd74f5b13ed3ae548764776e5ee580969966e27d",
+                "0x6887db2a300efa1b4d1cd65e2852e42cb662c5848cc5b3cf7140d2d29500327f"
+            ]
+        },
+        "0xB05043Ec7eaE86d9ef9627b4A4270c2b79b9F2A9": {
+            "balance": "200000000000000000",
+            "proof": [
+                "0x6033252db841b55a0d215128dfa3aade16bb901396db15b70af44a873426f487",
+                "0xc69653201beb86eeba491890dd74f5b13ed3ae548764776e5ee580969966e27d",
+                "0x6887db2a300efa1b4d1cd65e2852e42cb662c5848cc5b3cf7140d2d29500327f"
+            ]
+        },
+        "0x16CE97F02058cF160e2521953d780C1495264FdF": {
+            "balance": "300000000000000000",
+            "proof": [
+                "0x5e2c446d06291498a77612efbb204bd04918b1a3c5b60d74e709458297350733"
             ]
         }
     }
