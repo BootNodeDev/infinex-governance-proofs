@@ -1,50 +1,50 @@
 {
-    "root": "0x95b5bc9fad346104fec20ce8077adee6db72ce81bf848698727229e1a4addf8b",
+    "root": "0xcbfbbcfa2238dfb1863c54af924cd95f96dc1fecc06fbbf30f6a2220c0d4aa96",
     "proofs": {
         "0xF86E9Bf6620865CcBa7a82A05672c15fdDC3a615": {
-            "balance": "2000000000000000000",
+            "balance": "4000000000000000000",
             "proof": [
-                "0x2ed995f276f4b4b029b2278fea53ce0282f5db4a892753281b11f91cfece0cfb",
-                "0x7416bf2e33feb4f30bed6c6190ab0a408e8da475c0dfab5baea0d28f70fc123c",
-                "0x6cf935a7e564133ab05bf58e77e2924403051f8c94c2c1adfdf59e7e3bc3eb6c"
+                "0x344047013bdfb98233a679f037ed344f85797567af0b43854afc13fecf09b119",
+                "0xaacc6272dbe0ce0de61a5bd5b6264e83ebd51fd9d3f28728d080d042ca5c3f77",
+                "0x52ffc0944c877901f87855ccb60751e8ff9360603e085070f092def9d493df35"
             ]
         },
         "0x32D2bb640cfcf59f856FB39F4E0901448dEF1533": {
-            "balance": "5000000000000000000",
+            "balance": "10000000000000000000",
             "proof": [
-                "0x7250d2c8c9479b1a4afc1a6318073a571fea6ede3737f812e46e057939b3e0fb",
-                "0x7416bf2e33feb4f30bed6c6190ab0a408e8da475c0dfab5baea0d28f70fc123c",
-                "0x6cf935a7e564133ab05bf58e77e2924403051f8c94c2c1adfdf59e7e3bc3eb6c"
+                "0x971f273d1f41919e7e86ef9d8decdc2311b422733bcecc5d8a45ce34364d4887",
+                "0xaacc6272dbe0ce0de61a5bd5b6264e83ebd51fd9d3f28728d080d042ca5c3f77",
+                "0x52ffc0944c877901f87855ccb60751e8ff9360603e085070f092def9d493df35"
             ]
         },
         "0x37c717B11cD448C8A07372C672f701f4d3871138": {
-            "balance": "3000000000000000000",
+            "balance": "6000000000000000000",
             "proof": [
-                "0xf6d023b0f3da78b2b56663c47cf1561d9398700546e17a8f44f23c8c140b27cf",
-                "0x0a409b37c76d66c970ad7be75a97a57b7ccc2ac510e660887c0e424f06d9d9c2",
-                "0x6cf935a7e564133ab05bf58e77e2924403051f8c94c2c1adfdf59e7e3bc3eb6c"
+                "0x0ce0863b955b43c3c9ccac3c2f791e82f3b29af3763618e802cb48270d6ea789",
+                "0x9a75460cf272418e0c414d97f9232f40f8c9da8d3c5ab5cfa7d40bded7e266c2",
+                "0x52ffc0944c877901f87855ccb60751e8ff9360603e085070f092def9d493df35"
             ]
         },
         "0x63d8e7AD73ebbD42DC846a1f0e200210B2f15474": {
-            "balance": "1000000000000000000",
+            "balance": "2000000000000000000",
             "proof": [
-                "0x61d24b1b34be8d65e03b96fdfbcd53a24686b272da8cb8c20ae6bb5ad3e54490",
-                "0x0a409b37c76d66c970ad7be75a97a57b7ccc2ac510e660887c0e424f06d9d9c2",
-                "0x6cf935a7e564133ab05bf58e77e2924403051f8c94c2c1adfdf59e7e3bc3eb6c"
+                "0xf10ef5a408294d94d68076fcd84b502877043f7cb091ea247310372d8be30276",
+                "0x9a75460cf272418e0c414d97f9232f40f8c9da8d3c5ab5cfa7d40bded7e266c2",
+                "0x52ffc0944c877901f87855ccb60751e8ff9360603e085070f092def9d493df35"
             ]
         },
         "0xB7B868AB0064AeB9e57886893736B1D5d24Df7C4": {
-            "balance": "6000000000000000000",
+            "balance": "1200000000000000000",
             "proof": [
-                "0x36958a01691e758b3572b562ce3b438ef2a6f820edc500980cba20af88b8237f",
-                "0xc1e255e51558989d32aa895e5b2938e38fe537f4952036db4fbcbc0544db714c"
+                "0xe0ced22d281f0a1088dfdacd21e4130c791c3a994a0aefb587eebadbb97ff73e",
+                "0x61cdb12da8d4081482238b77ad3c7774acbb195cb6801f2e6a7e38676b7d0f68"
             ]
         },
         "0x0017EA4740ca6C4DDbDBf06C0135D0cF079AB154": {
-            "balance": "4000000000000000000",
+            "balance": "8000000000000000000",
             "proof": [
-                "0xeb91c61bf7a413d83c6672ed437b6846c6baa0f8f919554ced53115a6c7e2600",
-                "0xc1e255e51558989d32aa895e5b2938e38fe537f4952036db4fbcbc0544db714c"
+                "0xdf3054e63f83b8d878012601b3ca096300e961041dda30449cc4d8520be59792",
+                "0x61cdb12da8d4081482238b77ad3c7774acbb195cb6801f2e6a7e38676b7d0f68"
             ]
         }
     }
