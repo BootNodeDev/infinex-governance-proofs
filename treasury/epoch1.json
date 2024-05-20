@@ -1,0 +1,51 @@
+{
+    "root": "0x7fa739b800764465a781a7b1dbd458b8e1cf5e04d4dad36ef0f3a44a46f92dbb",
+    "proofs": {
+        "0xF86E9Bf6620865CcBa7a82A05672c15fdDC3a615": {
+            "balance": "2",
+            "proof": [
+                "0x8a228ca2f1e579e38115a8f198ea666aa77b1a510e3dbba940eab17762dba08e",
+                "0xa600db7d23e0906fe80b92209b6f2a3d59b4e10a79a45d95fcb9f4d2011ac570",
+                "0x1bd1526d4887aabe295d151a648568fb52a6f1e2003e1a915e701a8042c1b1cf"
+            ]
+        },
+        "0x32D2bb640cfcf59f856FB39F4E0901448dEF1533": {
+            "balance": "5",
+            "proof": [
+                "0xed47790afa41f9409eb01371d41cf04df3d5b5ceffeed01dec1d683017f569a4",
+                "0xa600db7d23e0906fe80b92209b6f2a3d59b4e10a79a45d95fcb9f4d2011ac570",
+                "0x1bd1526d4887aabe295d151a648568fb52a6f1e2003e1a915e701a8042c1b1cf"
+            ]
+        },
+        "0x37c717B11cD448C8A07372C672f701f4d3871138": {
+            "balance": "3",
+            "proof": [
+                "0xd49f265c14f214885f6c82b766eb34f7b5e94d9267617197d079470a17bc7214",
+                "0x6177a32da8f0ef099342d86ee3094acd455aa0ca342985339a845668cfe913ad",
+                "0x1bd1526d4887aabe295d151a648568fb52a6f1e2003e1a915e701a8042c1b1cf"
+            ]
+        },
+        "0x63d8e7AD73ebbD42DC846a1f0e200210B2f15474": {
+            "balance": "1",
+            "proof": [
+                "0xa858141a782004f9ec479d73a150090b21bb353e63c69c2d8b49acb37fd2f4d7",
+                "0x6177a32da8f0ef099342d86ee3094acd455aa0ca342985339a845668cfe913ad",
+                "0x1bd1526d4887aabe295d151a648568fb52a6f1e2003e1a915e701a8042c1b1cf"
+            ]
+        },
+        "0xB7B868AB0064AeB9e57886893736B1D5d24Df7C4": {
+            "balance": "6",
+            "proof": [
+                "0xf1ca915a3be44475f1e65238d7c293ab5424ca28fa9b09f231e51a8bbd5459dc",
+                "0x060b522244d22ea8d2759b38f756d5e2d1b8157403c39b1cd5f6e84a92fdc607"
+            ]
+        },
+        "0x0017EA4740ca6C4DDbDBf06C0135D0cF079AB154": {
+            "balance": "4",
+            "proof": [
+                "0x7899d0ceb60e06ebb0663c6796fb17c592df36fa02b01af180e6e2a0454c6921",
+                "0x060b522244d22ea8d2759b38f756d5e2d1b8157403c39b1cd5f6e84a92fdc607"
+            ]
+        }
+    }
+}
